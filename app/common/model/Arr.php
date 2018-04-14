@@ -1,12 +1,7 @@
 <?php
 
 namespace app\common\model;
-/**
- * 数组管理
- * Class Arr
- * @package hdphp\arr
- * @author 向军
- */
+
 class Arr {
 	/**
 	 * 返回多层栏目
